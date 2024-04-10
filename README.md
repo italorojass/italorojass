@@ -1,13 +1,7 @@
-Contexto
-Agrosuper, empresa líder de la industria de alimentos en Chile, busca identificar y
-apoyar propuestas innovadoras que tengan el potencial de impactar su cadena de
-valor. La empresa está interesada en investigaciones en etapas tempranas que
-puedan mejorar la eficiencia, la sostenibilidad y la competitividad de sus procesos
-en todas las etapas de la cadena, desde la producción de alimentos, la crianza animal,
-el procesamiento y distribución y comercialización de sus productos finales.
 
 
-<h3 align="left">Hola👋!mi nombre es Italo y soy desarrollador fullstack. Me especializo en la creación de software de control de gestión<br>Portales de venta e integraciones a ERPs<br>Creación de documentos Excel, PDF, etc.. <br>Automatización de procesos</h3>
+
+<h3 align="left">Hola👋!mi nombre es Italo y soy desarrollador fullstack. Desarrollo software desde el año 2015 donde he pasado por varias tecnologias y proyectos.<br>Me especializo en la creación de software de control de gestión<br>Portales de venta e integraciones a ERPs<br>Creación de documentos Excel, PDF, etc.. <br>Automatización de procesos</h3>
 
 ###
 

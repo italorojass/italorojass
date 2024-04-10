@@ -1,7 +1,7 @@
 
 
 
-<h3 align="left">Hola👋!mi nombre es Italo y soy desarrollador fullstack. Desarrollo software desde el año 2015 donde he pasado por varias tecnologias y proyectos.<br>Me especializo en la creación de software de control de gestión<br>Portales de venta e integraciones a ERPs<br>Creación de documentos Excel, PDF, etc.. <br>Automatización de procesos</h3>
+<h3 align="left">Hola👋! mi nombre es Italo Rojas, tengo 31 años y soy desarrollador fullstack. Desarrollo software desde el año 2015 donde he pasado por varias tecnologias y proyectos.<br>Me especializo en la creación de software de control de gestión<br>Portales de venta e integraciones a ERPs<br>Creación de documentos Excel, PDF, etc.. <br>Automatización de procesos</h3>
 
 ###
 
